@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>oynatma_listesi.png</file>
+    <file>tekli_video.png</file>
+    <file>back_exit.png</file>
+    <file>cikis.png</file>
+</qresource>
+</RCC>
